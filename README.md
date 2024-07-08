@@ -36,6 +36,12 @@ To access the learning materials in this repository, simply clone the repository
 <pre>
 git clone https://github.com/vikasz1/SQL_FCC.git
 </pre>
+
+Command to run sql Script file from terminal
+<pre>
+mysql -u username -p database_name < create_database.sql
+</pre>
+
 ## Usage
 
 Once you have cloned the repository, you can navigate through the different topics and explore the learning materials. Each topic folder contains explanatory markdown files, code examples, and exercise files. You can use any SQL-compatible database system to practice the examples and exercises.
